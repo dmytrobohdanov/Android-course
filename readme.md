@@ -10,6 +10,7 @@
 ## Table of contents
 1. Intro 
 2. [Lesson 0](../lessons/lesson_0.md)
+2. [Lesson 0](../blob/master/lessons/lesson_0)
 3. Lesson 1
 4. ....
 
