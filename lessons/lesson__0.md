@@ -14,6 +14,10 @@ https://tproger.ru/translations/oop-principles-cheatsheet/
 ##### Про GIT 
 // todo  
 
+##### Code style
+- [Kotlin](https://developer.android.com/kotlin/style-guide)
+- [Java](https://google.github.io/styleguide/javaguide.html) 
+
 ##### Основы создания приложений
 https://developer.android.com/guide/components/fundamentals
 

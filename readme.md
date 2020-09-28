@@ -8,10 +8,23 @@
 ~ на данный момент в разработке ~  
 
 ## Table of contents
-1. Intro 
+1. [Intro](readme.md#Intro) 
 2. [Lesson 0](lessons/lesson__0.md)
-3. [Lesson 1](lessons/lesson_1.md)
-4. ....
+3. [Lesson 1]
+4. [Lesson 2 - MotionLayout]
+5. [Lesson 3 - Навигация(+drawer nav, bottom nav, залогировать жизненный цикл), шеред прференсес, рум, квиз]
+6. [Lesson 4 - Корутины]
+7. [Lesson 5 - (про таймер, воркменеджер, помодорро, нотификации)]
+8. фейк джпс (можно докрутить всякие штуки типа генерации пути)
+8. клин архитектура, заметки (фото с камера активити, спич-ту-текст
+9. permissions	https://developer.android.com/guide/topics/permissions/overview ,камера-qrcode-датчики(линия горизонта), добавить кнопку "копировать" инфу с qr кода,
+10. RXJava & RXKotlin (нужно хорошее задание)
+11. курс валют 	RESTful API, Retrofit/OkHttp(ретрофит+котлин	https://habr.com/ru/post/520544/), GSON, виджеты, нотификации если курс прыгнул, добавить предсказание что пора сдавать валюту,  отправить курс контакту телефонной книги, на почту, прикрутить фаербейс
+13. Jetpack	https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9mxIBd0DRw9gwXuQshgmn2 
+архитектура MVC/MVP/MVVM/MVI, архитектура	https://developer.android.com/jetpack/guide
+14.Hilt (Dagger/Koin)
+15. unit tests, UX tests
+16. финальное задание (туду: прописать что в нем должно быть)
 
 ### Intro 
 #### Pre-requirements 
@@ -24,5 +37,4 @@
 
 #### Формат курса 
 // todo 
-// - Каждый урок расчитан на ориентировочно 2 недели. Это не совсем даже урок, а скорее скоуп задач и материалов, тем для изучения
 // - если в задаче не указан другой язык, то мы используем Kotlin
