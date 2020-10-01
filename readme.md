@@ -15,10 +15,10 @@
 3. [Lesson 1 - First app](lessons/lesson_1.md)
 4. [Lesson 2 - MotionLayout](lessons/lesson_2.md)
 5. [Lesson 3 - Навигация и хранение данных](lessons/lesson_3.md)
-6. [Lesson 4 - Корутины и асинхронность]
-7. RXJava & RXKotlin (нужно хорошее задание)
-8. [Lesson 5 - (про таймер, воркменеджер, помодорро, нотификации)]
-9. фейк джпс (можно докрутить всякие штуки типа генерации пути)
+6. [Lesson 4 - Корутины и асинхронность](lessons/lesson_4.md)
+7. [Lesson 5 - Rx](lessons/lesson_5.md) (*not finished*)
+8. [Lesson 6 - Sevices, WorkManager, Notifications](lessons/lesson_6.md)
+9. (?) фейк джпс (можно докрутить всякие штуки типа генерации пути)
 10. клин архитектура, заметки (фото с камера активити, спич-ту-текст
 11. permissions	https://developer.android.com/guide/topics/permissions/overview ,камера-qrcode-датчики(линия горизонта), добавить кнопку "копировать" инфу с qr кода,
 12. курс валют 	RESTful API, Retrofit/OkHttp(ретрофит+котлин	https://habr.com/ru/post/520544/), GSON, виджеты, нотификации если курс прыгнул, добавить предсказание что пора сдавать валюту,  отправить курс контакту телефонной книги, на почту, прикрутить фаербейс
