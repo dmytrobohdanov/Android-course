@@ -16,19 +16,21 @@
 4. [Lesson 2 - MotionLayout](lessons/lesson_2.md)
 5. [Lesson 3 - Навигация и хранение данных](lessons/lesson_3.md)
 6. [Lesson 4 - Корутины и асинхронность](lessons/lesson_4.md)
-7. [Lesson 5 - Rx](lessons/lesson_5.md) (*not finished*)
+7. [Lesson 5 - Rx](lessons/lesson_5.md)
 8. [Lesson 6 - Sevices, WorkManager, Notifications](lessons/lesson_6.md)
-9. (?) фейк джпс (можно докрутить всякие штуки типа генерации пути)
-10. клин архитектура, заметки (фото с камера активити, спич-ту-текст
+10. [Lesson 7 - Architecture: part 1](lessons/lesson_7.md)
 11. permissions	https://developer.android.com/guide/topics/permissions/overview ,камера-qrcode-датчики(линия горизонта), добавить кнопку "копировать" инфу с qr кода,
 12. курс валют 	RESTful API, Retrofit/OkHttp(ретрофит+котлин	https://habr.com/ru/post/520544/), GSON, виджеты, нотификации если курс прыгнул, добавить предсказание что пора сдавать валюту,  отправить курс контакту телефонной книги, на почту, прикрутить фаербейс
 13. Jetpack	https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9mxIBd0DRw9gwXuQshgmn2 
-архитектура MVC/MVP/MVVM/MVI, архитектура	https://developer.android.com/jetpack/guide
+архитектура MVC/MVP/MVVM/MVI, 
 корутины +джетпак: https://developer.android.com/topic/libraries/architecture/coroutines
 14.Hilt (Dagger/Koin)
 15. (optional) jetpack compose	https://proandroiddev.com/jetpack-compose-how-to-start-with-it-and-develop-an-application-b2bea059b796
 16. (optional) unit tests, UX tests
 17. финальное задание (туду: прописать что в нем должно быть)
+
+- (?) фейк джпс (можно докрутить всякие штуки типа генерации пути)
+
 
 ### Intro 
 #### Pre-requirements 
