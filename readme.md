@@ -20,11 +20,9 @@
 8. [Lesson 6 - Sevices, WorkManager, Notifications](lessons/lesson_6.md)
 10. [Lesson 7 - Architecture: part 1](lessons/lesson_7.md)
 11. [Lesson 8 - Permissions, Camera](lessons/lesson_8.md) 
-12. курс валют 	RESTful API, Retrofit/OkHttp(ретрофит+котлин	https://habr.com/ru/post/520544/), GSON, виджеты, нотификации если курс прыгнул, добавить предсказание что пора сдавать валюту,  отправить курс контакту телефонной книги, на почту, прикрутить фаербейс
-13. Jetpack	https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9mxIBd0DRw9gwXuQshgmn2 
-архитектура MVC/MVP/MVVM/MVI, 
-корутины +джетпак: https://developer.android.com/topic/libraries/architecture/coroutines
-14.Hilt (Dagger/Koin)
+12. [Lesson 9 - работа с API, App Widgets](lessons/lesson_9.md)
+13. [Lesson 10 - Architecture: part 2. Jetpack, MVVM](lessons/lesson_10.md)	
+14. Hilt (Dagger/Koin)
 15. (optional) jetpack compose	https://proandroiddev.com/jetpack-compose-how-to-start-with-it-and-develop-an-application-b2bea059b796
 16. (optional) unit tests, UX tests
 17. финальное задание (туду: прописать что в нем должно быть)
