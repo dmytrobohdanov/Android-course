@@ -22,13 +22,12 @@
 11. [Lesson 8 - Permissions, Camera](lessons/lesson_8.md) 
 12. [Lesson 9 - работа с API, App Widgets](lessons/lesson_9.md)
 13. [Lesson 10 - Architecture: part 2. Jetpack, MVVM](lessons/lesson_10.md)	
-14. Hilt (Dagger/Koin)
-15. (optional) jetpack compose	https://proandroiddev.com/jetpack-compose-how-to-start-with-it-and-develop-an-application-b2bea059b796
-16. (optional) unit tests, UX tests
-17. финальное задание (туду: прописать что в нем должно быть)
+14. [Lesson 11 - Dependency Injection](lessons/lesson_11.md)  
+15. [Lesson 12 - Firebase](lessons/lesson_12.md) //todo
+15. (optional) [Lesson 13 - Jetpack Compose](lessons/lesson_13.md) //todo
+16. (optional) [Lesson 14 - Testing](lessons/lesson_14.md) //todo
+17. [Lesson Final](lessons/lesson_final.md) //todo
 
-- (?) фейк джпс (можно докрутить всякие штуки типа генерации пути)
-- firebase
 
 ### Intro 
 #### Pre-requirements 
