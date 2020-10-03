@@ -19,7 +19,7 @@
 7. [Lesson 5 - Rx](lessons/lesson_5.md)
 8. [Lesson 6 - Sevices, WorkManager, Notifications](lessons/lesson_6.md)
 10. [Lesson 7 - Architecture: part 1](lessons/lesson_7.md)
-11. permissions	https://developer.android.com/guide/topics/permissions/overview ,камера-qrcode-датчики(линия горизонта), добавить кнопку "копировать" инфу с qr кода,
+11. [Lesson 8 - Permissions, Camera](lessons/lesson_8.md) 
 12. курс валют 	RESTful API, Retrofit/OkHttp(ретрофит+котлин	https://habr.com/ru/post/520544/), GSON, виджеты, нотификации если курс прыгнул, добавить предсказание что пора сдавать валюту,  отправить курс контакту телефонной книги, на почту, прикрутить фаербейс
 13. Jetpack	https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9mxIBd0DRw9gwXuQshgmn2 
 архитектура MVC/MVP/MVVM/MVI, 
@@ -30,7 +30,7 @@
 17. финальное задание (туду: прописать что в нем должно быть)
 
 - (?) фейк джпс (можно докрутить всякие штуки типа генерации пути)
-
+- firebase
 
 ### Intro 
 #### Pre-requirements 
