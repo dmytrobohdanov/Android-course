@@ -6,8 +6,6 @@
 
 По завершению урока у вас будет приложение состоящее из нескольких экранов, на каждом из которых вы попробуете что-то новое для себя 
 
-Перед стартом просмотреть //todo put lesson's numbers уроки на [startandroid](https://startandroid.ru/ru/uroki/vse-uroki-spiskom.html#)  
-
 ## Links
 #### Про инициализацию View.
 можно инициализировать вьюшки разными способами. Знать нужно как можно больше, пользоваться — удобными
@@ -34,6 +32,12 @@
 - Документация: [User Guide](https://developer.android.com/guide/navigation/navigation-swipe-view-2) и [Code Sample](https://github.com/android/views-widgets-samples/tree/master/ViewPager2)
 - на хабре про [`ViewPager2`](https://habr.com/ru/company/surfstudio/blog/461873/)
 - про `TabLayout` [тут](https://material.io/develop/android/components/tabs)
+
+#### разное
+- [Toasts overview](https://developer.android.com/guide/topics/ui/notifiers/toasts)
+- [Snackbars](https://material.io/components/snackbars)
+- [Диалоговые окна](https://developer.android.com/guide/topics/ui/dialogs?hl=ru)
+
 
 ## Tasks
 Приложение будет состоять из нескольких экранов. 

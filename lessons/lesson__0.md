@@ -24,8 +24,11 @@ https://developer.android.com/guide/components/fundamentals
 ##### Activity
 [документация](https://developer.android.com/reference/android/app/Activity)
 
-##### Устанавливаем студию, запускаем проект, играемся с View`шками 
-https://developer.android.com/training/basics/firstapp
+
+- [Build your first app](https://developer.android.com/training/basics/firstapp)
+- урок [Layout параметры](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/38-urok-7-layout-parametry-dlja-view-elementov.html)
+- урок [Работаем с элементами экрана из кода](https://startandroid.ru/ru/uroki/vse-uroki-spiskom/24-urok-8-rabotaem-s-elementami-ekrana-iz-koda.html)
+- docs: [App resources overview](https://developer.android.com/guide/topics/resources/providing-resources.html#ResourceTypes)
 
 ## Tasks
 0. Прочитать блок `Build your first app`   
