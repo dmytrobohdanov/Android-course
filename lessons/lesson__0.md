@@ -4,7 +4,7 @@
 ## Overview
 Узнаем как-что установить, почитаем про андроид и немного про другие полезные вещи 
 
-## To read 
+## Links 
 ##### SOLID 
 https://habr.com/ru/post/508086/
 
@@ -20,6 +20,9 @@ https://tproger.ru/translations/oop-principles-cheatsheet/
 
 ##### Основы создания приложений
 https://developer.android.com/guide/components/fundamentals
+
+##### Activity
+[документация](https://developer.android.com/reference/android/app/Activity)
 
 ##### Устанавливаем студию, запускаем проект, играемся с View`шками 
 https://developer.android.com/training/basics/firstapp

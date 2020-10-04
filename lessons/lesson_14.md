@@ -3,7 +3,10 @@
 # Lesson 14 - Testing
 ## Overview
 unit tests, UX tests
-## To read
-
+## Links
+https://developers.google.com/certification/associate-android-developer/study-guide/testing
 
 ## Задание
+
+
+[*<< back to lessons list*](../readme.md)

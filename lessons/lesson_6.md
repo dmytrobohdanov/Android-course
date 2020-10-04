@@ -5,7 +5,7 @@
 // todo 
 
 
-## To read
+## Links
 #### Notifications
 - [Документация](https://developer.android.com/training/notify-user/build-notification)
 - [статья](https://itnext.io/android-notification-all-in-one-8df3e1218e0e)
@@ -42,3 +42,5 @@
 Общие пожелания:
 - продумать навигацию так, что бы приложением удобно было пользоваться
 - вести статистику того как пользователь выполняет помодоро, отдельный экран для нее сделать
+
+[*<< back to lessons list*](../readme.md)

@@ -4,10 +4,10 @@
 ## Overview
 // todo 
 
-## To read
+## Links
 - документация: [Guide to app architecture](https://developer.android.com/jetpack/guide)
 - [урок про MVP](https://startandroid.ru/ru/blog/493-mvp-dlja-nachinajuschih-bez-bibliotek-i-interfejsov.html)
-- стили и темы //todo
+- [стили и темы](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
 
 ##### Clean architecture
 - [классное видео](https://www.youtube.com/watch?v=AlxMGxs2QnM)
@@ -40,3 +40,6 @@ Clean architecture, MVP
 ##### 4. Улучшаем фотозаметку 
 - теперь можно выбрать источник фото: камера или галерея
 - Делаем так что бы можно было рисовать по созданной фотографии (используем библиотечку)
+
+
+[*<< back to lessons list*](../readme.md)
