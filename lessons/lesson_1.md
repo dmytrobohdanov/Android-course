@@ -10,7 +10,7 @@
 #### Про инициализацию View.
 можно инициализировать вьюшки разными способами. Знать нужно как можно больше, пользоваться — удобными
 * `ButterKnife` - просмотреть и забыть, он `deprecated` но знать про его существование нужно: https://jakewharton.github.io/butterknife/
-* `Kotlin Synthetic` Наверное, самый простой вариант, но с нюансами, почитать можно [тут](https://medium.com/nuances-of-programming/kotlin-android-extensions-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-42ad43b029d7)
+* `Kotlin Synthetic` Наверное, самый простой вариант, но с нюансами, почитать можно [тут](https://medium.com/nuances-of-programming/kotlin-android-extensions-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-42ad43b029d7). В принципе из-за этих нюансов этот подход деприкейтед, используем следубщий пункт, view binding
 * `View Binding` Вариант решающий некоторые проблемы предыдущего, но при этом все еще прост в использовании, тут [интродакшен-видео](https://www.youtube.com/watch?v=W7uujFrljW0) и [документация](https://developer.android.com/topic/libraries/view-binding)
 * есть еще `Data Binding`, инструмент посложнее, чаще всего достаточно View Binding. Можно про него почитать в документации или в уроках 18-23 на [этого курса](https://startandroid.ru/ru/courses/architecture-components/27-course/architecture-components/551-urok-18-data-binding-osnovy.html) 
 Обобщающая [статья на Хабре](https://habr.com/ru/post/467295/). Там некоторые вещи вам могут быть непонятны, например, `RecyclerView`, мы до этого совсем скоро дойдем, не переживайте :-)  

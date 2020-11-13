@@ -13,7 +13,7 @@
 1. [Intro](readme.md#Intro) 
 2. [Lesson 0](lessons/lesson__0.md)
 3. [Lesson 1 - First app](lessons/lesson_1.md)
-4. [Lesson 2 - MotionLayout](lessons/lesson_2.md)
+4. (optional) [Lesson 2 - MotionLayout](lessons/lesson_2.md)
 5. [Lesson 3 - Навигация и хранение данных](lessons/lesson_3.md)
 6. [Lesson 4 - Корутины и асинхронность](lessons/lesson_4.md)
 7. [Lesson 5 - Rx, Sensors](lessons/lesson_5.md)
@@ -42,3 +42,4 @@
 // todo 
 // - уроки не равномерные по времени, какой-то можно пройти за день, над некоторыми придется поработать больше недели 
 // - если в задаче не указан другой язык, то мы используем Kotlin
+// - расчитан примерно на 4 месяца 
