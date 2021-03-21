@@ -37,6 +37,7 @@
 - [Toasts overview](https://developer.android.com/guide/topics/ui/notifiers/toasts)
 - [Snackbars](https://material.io/components/snackbars)
 - [Диалоговые окна](https://developer.android.com/guide/topics/ui/dialogs?hl=ru)
+- [Динамическая вісота текста](https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview)
 
 
 ## Tasks
