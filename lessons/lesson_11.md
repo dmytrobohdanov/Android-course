@@ -12,4 +12,6 @@ Hilt/ Dagger/Koin
 ## Задание
 
 
-[*<< back to lessons list*](../readme.md)
+Вернуться к [*Lesson 10 - Architecture: part 2. Jetpack, MVVM*](./lesson_10.md)  
+Вперед к [*Lesson 12 - Firebase*](./lesson_12.md)  
+Вернуться к [*Lessons list*](../readme.md)

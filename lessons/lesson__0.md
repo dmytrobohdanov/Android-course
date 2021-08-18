@@ -12,10 +12,10 @@ https://habr.com/ru/post/508086/
 https://tproger.ru/translations/oop-principles-cheatsheet/
 
 ##### Про GIT 
-нужно уметь:
+Нужно уметь:
 - создавать репозиторий на гитхаб 
 - пушить свой код на репозиторий 
-- делать комит / пуш 
+- делать коммит / пуш 
 - создавать новые ветки
 - стягивать изменения с гита
 - клонировать репозиторий с гитхаба на комп
@@ -70,3 +70,6 @@ https://developer.android.com/guide/components/fundamentals
 - Project quick fix (show intention actions and quick fixes):	`Alt+Enter`/`Option+Enter`
 - Basic code completion	`Control+Space`/`Control+Space`
 - ....
+
+Вернуться к [*Lessons list*](../readme.md)  
+Вперед к  [*Lesson 1 - First app*](./lesson_1.md)
