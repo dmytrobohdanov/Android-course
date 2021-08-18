@@ -17,14 +17,15 @@
 ## Задание
 (Если вдруг вы читаете это и у вас есть хорошее задание на моушенлейаут - буду благодарен за совет🙂)
 
-Поэксперементировать с `MotionLayout`, попробовать разные примеры, можно накидать свои. 
+Поэкспериментировать с `MotionLayout`, попробовать разные примеры, можно накидать свои. 
 
 Рекомендую, помимо базовых примеров, попробовать 
 [DrawerLayout](https://developer.android.com/training/constraint-layout/motionlayout/examples#drawerlayout_12), 
 [Fragment transition](https://developer.android.com/training/constraint-layout/motionlayout/examples#fragment_transition_12), 
-можно сделать что-нибудь интересное с [Вьюпейджером и паралаксом](https://developer.android.com/training/constraint-layout/motionlayout/examples#viewpager)
+можно сделать что-нибудь интересное с [Вьюпейджером и параллаксом](https://developer.android.com/training/constraint-layout/motionlayout/examples#viewpager)
 
 
 
-[*<< back to lessons list*](../readme.md)
- 
+Вернуться к [*Lesson 1 - First app*](./lesson_1.md)  
+Вперед к [*Lesson 3 - Навигация и хранение данных*](./lesson_3.md)  
+Вернуться к [*Lessons list*](../readme.md)

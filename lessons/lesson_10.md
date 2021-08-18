@@ -2,7 +2,7 @@
 
 # Lesson - Architecture: part 2. Jetpack, MVVM 
 ## Overview
-углубляем знания про архитектуру, изучаем MVVM
+Углубляем знания про архитектуру, изучаем MVVM
 
 ## Links
 - [Jetpack Playlist](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9mxIBd0DRw9gwXuQshgmn2)
@@ -18,4 +18,6 @@
 Разобраться с MVVM
 
 
-[*<< back to lessons list*](../readme.md)
+Вернуться к [*Lesson 9 - работа с API, App Widgets*](./lesson_9.md)  
+Вперед к [*Lesson 11 - Dependency Injection*](./lesson_11.md)  
+Вернуться к [*Lessons list*](../readme.md)

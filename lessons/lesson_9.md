@@ -11,7 +11,7 @@
 - [RxJava2 Adapter](https://github.com/square/retrofit/tree/master/retrofit-adapters/rxjava2)
 - //todo нужна ссылка про корутины+ретрофит
 
-ну и всякого разного:
+Ну и всякое разное:
 - [Gson library](https://github.com/google/gson)
 - [App Widgets Overview](https://developer.android.com/guide/topics/appwidgets/overview)
 
@@ -42,4 +42,6 @@
 дать возможность пользователю задавать целевой курс валюты, постоянно трекать текущий курс, и как только текущий курс лучше или равен целевому, отправить нотификацию "пора <продавать/покупать> <название валюты>" 
 
 
-[*<< back to lessons list*](../readme.md)
+Вернуться к [*Lesson 8 - Permissions, Camera*](./lesson_8.md)  
+Вперед к [*Lesson 10 - Architecture: part 2. Jetpack, MVVM*](./lesson_10.md)  
+Вернуться к [*Lessons list*](../readme.md)

@@ -42,4 +42,6 @@ Clean architecture, MVP
 - Делаем так что бы можно было рисовать по созданной фотографии (используем библиотечку)
 
 
-[*<< back to lessons list*](../readme.md)
+Вернуться к [*Lesson 6 - Services, WorkManager, Notifications*](./lesson_6.md)  
+Вперед к [*Lesson 8 - Permissions, Camera*](./lesson_8.md)  
+Вернуться к [*Lessons list*](../readme.md)
